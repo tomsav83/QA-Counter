@@ -31,5 +31,3 @@ add5.addEventListener('click', function () {
   integer += 5
   int.innerHTML = integer
 })
-
-console.log()
